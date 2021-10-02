@@ -1,13 +1,13 @@
 import React from 'react';
-import { StyleSheet, View, Text, FlatList, Dimensions, Image } from 'react-native';
+import { View, Image } from 'react-native';
 import styles from './styles';
 
 
 
 const Header = () => {
     return (<View style={styles.container}>
-        <Image style={styles.logo} source={require("D:/Cars/carScreens/src/assets/images/logo.png")} />
-        <Image style={styles.menu} source={require("D:/Cars/carScreens/src/assets/images/menu.png")} />
+        <Image style={styles.logo} source={require("../../images/logo.png")} />
+        <Image style={styles.menu} source={require("../../images/menu.png")} />
     </View>
 
 

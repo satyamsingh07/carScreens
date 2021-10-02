@@ -1,4 +1,6 @@
+const { tsPropertySignature } = require("@babel/types");
+
 module.exports = {
-  root: true,
+  root: tsPropertySignature,
   extends: '@react-native-community',
 };
