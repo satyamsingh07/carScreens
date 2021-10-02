@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/81974869/135730297-3a0fc13d-59ef-4a6a-
 # Screen-3
 ![image](https://user-images.githubusercontent.com/81974869/135710099-80ed385b-6588-447b-8d75-66a2e3ba6187.png)
 # OnClick Alert
-![image](https://user-images.githubusercontent.com/81974869/135710117-da4804e8-f334-40d6-bb3b-321bf6f91bca.png)
+![image](https://user-images.githubusercontent.com/81974869/135730351-5da1ed16-6ec6-4f6f-a50f-5778c6609941.png)
 
 
 
