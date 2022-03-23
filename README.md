@@ -1,6 +1,8 @@
 # carScreens
 This is a very  basic static app on react native that displays a few car models of tesla.
 
+Flatlist used.
+
 
 https://user-images.githubusercontent.com/81974869/135730297-3a0fc13d-59ef-4a6a-98b8-b8c6754df579.mp4
 
